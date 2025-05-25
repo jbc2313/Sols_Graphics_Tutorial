@@ -1,6 +1,7 @@
-<<<<<<< HEAD
 # Sols_Graphics_Tutorial
 Tutorial for SDL graphics by Sol
-=======
 Familiarizing myself with SDL and c++
->>>>>>> 0cba517 (First Commit)
+
+
+
+I will fix the readme once I get the project setup properly
